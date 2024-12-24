@@ -1,0 +1,11 @@
+Asynchronous JavaScript is a programming technique that allows a program to continue responding to other events while a long-running task is in progress without blocking the main thread.
+
+Operations like fetching data from APIs, reading files, or setting timers.
+
+Eg: Emails or texts are examples of asynchronous communication because they 
+don't have to be coordinated in time.
+
+There are three ways to achieve this: 
+1.callbacks 
+2.Promises 
+3.async/await.
